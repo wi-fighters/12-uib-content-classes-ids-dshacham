@@ -1,0 +1,15 @@
+#see-through {
+    background-color: rgba(138, 43, 226, 0.5);
+}
+
+.heading {
+    color: red;
+}
+
+#green-back {
+    background-color: green;
+}
+
+.list-item {
+    color: blue;
+}
